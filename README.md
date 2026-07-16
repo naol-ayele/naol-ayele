@@ -8,4 +8,4 @@
 ![Profile](https://eyecatch-stats.vercel.app/api/profile?username=naol-ayele&theme=nova)
 
 ![Achievements](https://eyecatch-stats.vercel.app/api/achievements?username=naol-ayele&theme=nova)
-
+[![Birrly](https://eyecatch-stats.vercel.app/api/project?repo=naol-ayele/birrly&theme=nova)](https://github.com/naol-ayele/birrly)
