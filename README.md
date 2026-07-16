@@ -9,3 +9,4 @@
 
 ![Achievements](https://eyecatch-stats.vercel.app/api/achievements?username=naol-ayele&theme=nova)
 [![Birrly](https://eyecatch-stats.vercel.app/api/project?repo=naol-ayele/birrly&theme=nova)](https://github.com/naol-ayele/birrly)
+[![ZenaTech](https://eyecatch-stats.vercel.app/api/project?repo=naol-ayele/ZenaTech&theme=nova)](https://github.com/naol-ayele/ZenaTech)
